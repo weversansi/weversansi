@@ -58,9 +58,9 @@ Ambas me deram experiência com **virtualização, ambientes controlados, lógic
 
 ## 📊 GitHub em evolução
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0a0a0a)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=weversansi&show_icons=true&theme=dark&title_color=00ff99&icon_color=00ff99&text_color=ffffff&bg_color=0a0a0a)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&title_color=00ff99&bg_color=0a0a0a)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=weversansi&layout=compact&theme=dark&title_color=00ff99&bg_color=0a0a0a)
 
 ---
 
