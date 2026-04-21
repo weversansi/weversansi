@@ -1,4 +1,4 @@
-# 🛡️ Olá, eu sou [Wever]  
+# 🛡️ Olá, eu sou Wever  
 
 *Graduando em Engenharia Eletrônica (UFS) | Entusiasta de Cibersegurança | Ex-pesquisador PIBIC*
 
