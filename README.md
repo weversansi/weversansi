@@ -29,7 +29,6 @@ Ambas me deram experiência com **virtualização, ambientes controlados, lógic
 ## 🧠 Estudos atuais em Cibersegurança
 
 - 🐉 **HackersDoBem** – curso completo (iniciante ao avançado)  
-- 🎓 **CC50 (Harvard)** – via Fundação Estudar – fundamentos de computação  
 - 🧪 **TryHackMe** – salas práticas (faço anotações e write-ups)  
 
 🎯 **Objetivo**: migrar para a área de segurança ofensiva (Pentest) ou defesa (Blue Team) com base sólida em programação e sistemas.
@@ -52,7 +51,6 @@ Ambas me deram experiência com **virtualização, ambientes controlados, lógic
 - [ ] Script em Python para verificar se uma senha já vazou (API Have I Been Pwned)  
 - [ ] Write-ups das salas do TryHackMe  
 - [ ] Laboratório caseiro com dois VMs e regras de firewall  
-- [ ] Resumos do CC50 com foco em segurança de memória
 
 ---
 
