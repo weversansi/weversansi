@@ -1,14 +1,12 @@
 # 🛡️ Olá, eu sou Wever  
 
-*Graduando em Engenharia Eletrônica (UFS) | Entusiasta de Cibersegurança | Ex-pesquisador PIBIC*
+| Entusiasta de Cibersegurança | Ex-pesquisador PIBIC*
 
 > A eletrônica me deu a base dos sinais. A computação me deu o controle. Agora quero proteger os dois.
 
 ---
 
 ## 🎓 Formação
-
-- 🎓 **Engenharia Eletrônica** – Universidade Federal de Sergipe (em andamento)  
 - 🖥️ **Técnico em Informática** – Ensino Médio integrado  
 - 🔧 **Manutenção de Computadores** – SENAI  
 - 🐍 **Back-end com Python** – CEPEDI / Projeto Bolsa Futuro Digital
