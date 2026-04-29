@@ -1,8 +1,6 @@
 # 🛡️ Olá, eu sou Wever  
 
-| Entusiasta de Cibersegurança | Ex-pesquisador PIBIC*
-
-> A eletrônica me deu a base dos sinais. A computação me deu o controle. Agora quero proteger os dois.
+Entusiasta de Cibersegurança | Ex-pesquisador PIBIC*
 
 ---
 
